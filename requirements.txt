@@ -1,0 +1,12 @@
+telebot
+PIL
+requests
+BytesIO
+Image
+Message
+io
+ImageOps
+telebot.types
+pyTelegramBotAPI
+Pillow
+
